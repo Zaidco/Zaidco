@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zaid 👋
 
-<!--
-**Zaidco/Zaidco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- SDR & Product Enthusiast
+- Learning Sales, GTM and Product Management
+- Open to opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![NodeJS](https://img.shields.io/badge/Node.js-green)
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/zaid2003/
+- Email: zibro83@gmail.com
